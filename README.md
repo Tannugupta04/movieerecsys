@@ -1,4 +1,4 @@
-[LINK](https://movieerecsys.onrender.com/)
+[LINK](https://movieerecsys-dk8kvmwhb2umsn3squftuy.streamlit.app/)
 🎬**Movie Recommendation System** 🎥
 
 **Overview**
