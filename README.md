@@ -27,11 +27,7 @@ Pickle (for storing model data)
 
 📂 Project Structure
 
-bash
 
-Copy
-
-Edit
 
 📦 Movie-Recommendation-System
 
